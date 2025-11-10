@@ -1,4 +1,1 @@
 whoami
-pwd
-hostname
-ipconfig
